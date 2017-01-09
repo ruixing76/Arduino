@@ -30,7 +30,7 @@ void setup() {
 }
 
 void loop() {
-  for(int i=0;i<len;i++){
+  for(int i=0;i<len;i++){ 
     tone(buzzer,scale[i]);
     delay(250*duration[i]);
     noTone(buzzer);
