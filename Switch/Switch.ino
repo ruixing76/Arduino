@@ -22,4 +22,8 @@ void loop()
     digitalWrite(outPin,LOW);
   }
 }
+<<<<<<< HEAD
 
+=======
+
+>>>>>>> c24744c5db9df29ecd31326cc2f7e97bc376e5e1
