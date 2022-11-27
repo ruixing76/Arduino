@@ -17,8 +17,4 @@ void loop() {
   digitalWrite(index,HIGH);
   index=(index+1)%(endPin-startPin+1);  //循环取余数
   delay(300);
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> c24744c5db9df29ecd31326cc2f7e97bc376e5e1
